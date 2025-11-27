@@ -1,0 +1,33 @@
+body{
+ background-color: rgb(255, 255, 255);
+  text-align: center;
+}
+#todo-form{
+background-color: rgb(0, 0, 0);
+display: flex;
+justify-content: center;
+gap: 10px;
+
+}
+#todo-list{
+  margin: 0 auto;
+  background-color: rgb(255, 255, 255);
+  width: 600px;
+  border: 10px;
+}
+
+.todo-item{
+background-color: aqua;
+padding: 10px;
+border-radius: 20px;
+
+}
+.completed{
+
+  text-decoration: line-through;
+  background-color: aquamarine;
+}
+.btn-excluir{
+
+
+  }
